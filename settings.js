@@ -49,11 +49,11 @@ global.location = process.env.LOCATION || "Pakistan, Lahore, Sabzazar";
 
 
 //~~~~~~~~<Session and Bot Details>~~~~~~~~~~~~~\\
-global.SESSION_ID = process.env.SESSION_ID || '';
+global.SESSION_ID = process.env.SESSION_ID || 'XLICON-V4~LiZwUIqR#6Cpd7lyUj7r_Vlck_t7u4KgohnpXWG9yr354mraRnr8';
 
 global.botname = process.env.BOT_NAME || 'XLICON-V4-MD';
 
-global.ownernumber = [process.env.OWNER_NUMBER || '923184070915'];
+global.ownernumber = [process.env.OWNER_NUMBER || '923474719035'];
 
 global.ownername = process.env.OWNER_NAME || '𝙎𝙖𝙡𝙢𝙖𝙣 𝘼𝙝𝙢𝙖𝙙';
 
